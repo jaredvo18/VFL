@@ -1,0 +1,312 @@
+/*** Reset Body Styles ***/
+
+body {
+  background-color: #bfbfbf;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+/*** Navigation Bar ***/
+
+.nav-bar {
+  background-color: rgb(21, 52, 86);
+  padding: 10px;
+  width: 100%;
+}
+
+.nav-logo {
+  height: 40px;
+  text-align: left;
+  width: 40px;
+}
+
+.nav-link {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: left;
+  text-decoration: none;
+}
+
+/*** Story of the Week ***/
+
+.story-of-the-week {
+  background-color: white;
+  display: inline-block;
+  margin: 10px;
+  padding: 20px;
+  width: 60%;
+}
+
+.featured-article-image {
+  height: 400px;
+  width: 100%;
+}
+
+.sotw-header-link {
+  color: gray;
+  font-family: 'Anton', sans-serif;
+  font-size: 1.8rem;
+  text-decoration: none;
+}
+
+/*** Headlines ***/
+
+.headlines {
+  background-color: white;
+  display: inline-block;
+  margin: 10px;
+  margin-left: 25px;
+  position: relative;
+  bottom: 356px;
+  padding: 20px;
+  text-align: center;
+  width: 30%;
+}
+
+.headlines-heading {
+  font-family: 'Anton', sans-serif;
+  font-size: 1.5rem;
+}
+
+.headline-links {
+  color: gray;
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 2;
+  text-decoration: none;
+}
+
+/*** Recent Articles ***/
+
+.recent-articles {
+  font-family: 'Anton', sans-serif;
+  font-size: 2rem;
+  margin-left: 40px;
+  text-align: center;
+}
+
+  .article-preview {
+    background-color: white;
+    display: inline-block;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 7.2%;
+    padding: 10px;
+    text-align: center;
+    width: 39%;
+  }
+
+  .preview-img {
+    height: 200px;
+    width: 100%;
+  }
+
+  .preview-headline {
+    color: gray;
+    font-family: 'Anton', sans-serif;
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-decoration: none;
+  }
+
+  .news-page-header {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  /*** Articles ***/
+
+  .article {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .article-title {
+    font-family: 'Anton', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+  }
+  .article-subheader {
+    font-family: 'Anton', sans-serif;
+    font-size: 1.7rem;
+  }
+
+  .article-image {
+    height: 500px;
+    width: 500px;
+  }
+
+  .article-content {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.3rem;
+    text-align: left;
+  }
+
+  /*** Standings ***/
+  .standings {
+    background-color: white;
+    text-align: center;
+    margin: 70px;
+  }
+
+  .standings-headers {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 1.7rem;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 120px;
+  }
+
+  .standings-content {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 0 auto;
+    width: 150px;
+  }
+
+  .standings-img {
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 15px;
+  }
+
+  /*** Team links ***/
+
+  .teams {
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 30px;
+    text-align: center;
+    width: 90%;
+  }
+
+  .teams-vfl-logo {
+    height: 100px;
+    width: 100px;
+  }
+
+.teams-header {
+  color: black;
+  font-family: 'Anton', sans-serif;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.team-column-1 {
+  display: inline-block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 15px;
+}
+
+.team-column-2 {
+  display: inline-block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 15px;
+}
+
+.team-section-logo {
+  height: 25px;
+  width: 25px;
+}
+
+.team-link {
+  color: gray;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 2rem;
+  line-height: 2;
+  text-decoration: none;
+}
+
+/*** Scores Page & Scorecards ***/
+
+.week-header {
+  font-size: 40px;
+  text-align: center;
+}
+
+.week-subtitle {
+  font-size: 28px;
+  text-align: center;
+}
+
+.scorecard {
+  background-color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.game-title {
+  padding: 10px;
+}
+
+.scorecard-image {
+  height: 40px;
+  width: 40px;
+  padding: 10px;
+}
+
+.team-1 {
+  font-size: 25px;
+  padding-left: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.scorecard-1 {
+  display: inline-block;
+}
+
+.team-score {
+  padding-left: 40px;
+  font-size: 25px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+/*** Footer ***/
+
+.footer {
+  background-color: rgb(21, 52, 86);
+  text-align: center;
+  line-height: 1.5;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  bottom: 0;
+}
+
+.footer-text {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.5rem;
+}
+
+.portfolio-link {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
